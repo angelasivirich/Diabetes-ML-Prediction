@@ -38,10 +38,10 @@ def predict():
     diab_pred = round(prediction[0],2)
 
     if diab_pred == 0:
-        diab_pred = " The patience has high risk for Diabetes"
+        diab_pred = " The patient has high risk for Diabetes"
 
     else:
-        diab_pred="The patience has low risk of Diabetes"
+        diab_pred="The patient has low risk of Diabetes"
 
 
 
