@@ -1,35 +1,29 @@
-# META-B-ML-Project
-Project Name: Predicting Heart Disease Using Machine Learning 
+# Diabetes Data Analysis & Machine Learning Prediction
 
-Project Summary: 
+# Project Background
 
-In this project META-B will be using machine learning to predict heart disease in an individual. We will be creating visualizations in tableau to portray potential correlations and host all of our work on an HTML platform which will allow for user input to see if they are potentially at risk for heart disease. Finally, our application will be launched to the web for easy access using Heroku.
+Welcome to team META-B's Diabetes Data Analysis& ML Prediction Project! 
 
-Project Flow: 
-Clean Dataset
-Store data in database 
-Tableau visualizations
-Modelling 
-Logistic Regression
-Tree Model 
-Neural Network 
-HTML UI/JS
-Embed Tableau visualizations
-Create online submission form
-Link app
-Develop APP 
-Heroku 
+Our members include: Emily Shevell, Maury Agami, Angela Sivirichi, Braden Wang and Tajudeen Adeyemi 
 
-Datasets:
-https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression
-Resources:
-https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/
-GitHub:
-https://github.com/braden77/META-B-ML-Project
+In this project, we try to gain gain an in-depth understanding of diabetes by using Data Analysis & Machine Learning.
 
-Roles: 
-Timi- ETL, Flask
-Angela- Flask, ML
-Emily- ML
-Maury- Tableau, html/js
-Braden- Final slides preparation, Github management
+# Contents
+
+* Data Exploration by Tableau
+* Machine Learing Modelling: Logistic Regression, Deep Learning, SVM
+* Front-end Website Deployment
+
+# Datasets
+
+* Open Data Project with NHANES 2011-2012 Data. Link: https://data.world/rhoyt/librehealth-educational-ehr
+
+# Some Screenshots from Project
+
+<img src = "images/app architecture.JPG" >
+<img src = "images/demographic prediction.JPG" >
+<img src = "images/ml.JPG" >
+
+
+
+
